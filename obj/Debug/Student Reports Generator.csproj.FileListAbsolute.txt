@@ -1,0 +1,38 @@
+C:\Users\Gafur\Desktop\Student Reports Generator\bin\Debug\Student Reports Generator.exe.config
+C:\Users\Gafur\Desktop\Student Reports Generator\bin\Debug\Student Reports Generator.exe
+C:\Users\Gafur\Desktop\Student Reports Generator\bin\Debug\Student Reports Generator.pdb
+C:\Users\Gafur\Desktop\Student Reports Generator\obj\Debug\Student Reports Generator.csproj.AssemblyReference.cache
+C:\Users\Gafur\Desktop\Student Reports Generator\obj\Debug\Student Reports Generator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gafur\Desktop\Student Reports Generator\obj\Debug\Student_Reports_Generator.Form1.resources
+C:\Users\Gafur\Desktop\Student Reports Generator\obj\Debug\Student_Reports_Generator.Properties.Resources.resources
+C:\Users\Gafur\Desktop\Student Reports Generator\obj\Debug\Student Reports Generator.csproj.GenerateResource.cache
+C:\Users\Gafur\Desktop\Student Reports Generator\obj\Debug\Student Reports Generator.csproj.CoreCompileInputs.cache
+C:\Users\Gafur\Desktop\Student Reports Generator\obj\Debug\Student Reports Generator.exe
+C:\Users\Gafur\Desktop\Student Reports Generator\obj\Debug\Student Reports Generator.pdb
+C:\Users\Gafur\Desktop\Student Reports Generator\obj\Debug\Student_Reports_Generator.Login.resources
+C:\My Project files\Private\Student Reports Generator\bin\Debug\Student Reports Generator.exe.config
+C:\My Project files\Private\Student Reports Generator\bin\Debug\Student Reports Generator.exe
+C:\My Project files\Private\Student Reports Generator\bin\Debug\Student Reports Generator.pdb
+C:\My Project files\Private\Student Reports Generator\obj\Debug\Student Reports Generator.csproj.AssemblyReference.cache
+C:\My Project files\Private\Student Reports Generator\obj\Debug\Student Reports Generator.csproj.SuggestedBindingRedirects.cache
+C:\My Project files\Private\Student Reports Generator\obj\Debug\Student_Reports_Generator.Form1.resources
+C:\My Project files\Private\Student Reports Generator\obj\Debug\Student_Reports_Generator.Login.resources
+C:\My Project files\Private\Student Reports Generator\obj\Debug\Student_Reports_Generator.Properties.Resources.resources
+C:\My Project files\Private\Student Reports Generator\obj\Debug\Student Reports Generator.csproj.GenerateResource.cache
+C:\My Project files\Private\Student Reports Generator\obj\Debug\Student Reports Generator.csproj.CoreCompileInputs.cache
+C:\My Project files\Private\Student Reports Generator\obj\Debug\Student Reports Generator.exe
+C:\My Project files\Private\Student Reports Generator\obj\Debug\Student Reports Generator.pdb
+C:\My Project files\Private\Student Reports Generator\obj\Debug\Student_Reports_Generator.Forget_password_window.resources
+C:\My Project files\Private\simple-reports-generator\bin\Debug\Student Reports Generator.exe.config
+C:\My Project files\Private\simple-reports-generator\bin\Debug\Student Reports Generator.exe
+C:\My Project files\Private\simple-reports-generator\bin\Debug\Student Reports Generator.pdb
+C:\My Project files\Private\simple-reports-generator\obj\Debug\Student Reports Generator.csproj.AssemblyReference.cache
+C:\My Project files\Private\simple-reports-generator\obj\Debug\Student Reports Generator.csproj.SuggestedBindingRedirects.cache
+C:\My Project files\Private\simple-reports-generator\obj\Debug\Student_Reports_Generator.Forget_password_window.resources
+C:\My Project files\Private\simple-reports-generator\obj\Debug\Student_Reports_Generator.Form1.resources
+C:\My Project files\Private\simple-reports-generator\obj\Debug\Student_Reports_Generator.Login.resources
+C:\My Project files\Private\simple-reports-generator\obj\Debug\Student_Reports_Generator.Properties.Resources.resources
+C:\My Project files\Private\simple-reports-generator\obj\Debug\Student Reports Generator.csproj.GenerateResource.cache
+C:\My Project files\Private\simple-reports-generator\obj\Debug\Student Reports Generator.csproj.CoreCompileInputs.cache
+C:\My Project files\Private\simple-reports-generator\obj\Debug\Student Reports Generator.exe
+C:\My Project files\Private\simple-reports-generator\obj\Debug\Student Reports Generator.pdb

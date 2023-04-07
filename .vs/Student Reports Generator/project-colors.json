@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9ed2cc14-b84a-4006-99d0-e35155f9c49a": {
+      "ProjectGuid": "9ed2cc14-b84a-4006-99d0-e35155f9c49a",
+      "DisplayName": "Student Reports Generator",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
